@@ -1,4 +1,4 @@
-A modified version of AlKhalil1.1
+A modified, not official, version of AlKhalil1.1
 
 # BUILD OUTPUT DESCRIPTION
 
